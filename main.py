@@ -45,6 +45,5 @@ def generate_content(client, messages, verbose):
     print("Response:")
     print(response.text)
 
-
 if __name__ == "__main__":
     main()
